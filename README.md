@@ -14,7 +14,7 @@ cd ai-code-studio/Front-End
 ```
 ---
 
-##🔐 Environment Setup
+## 🔐 Environment Setup
 
 Before starting the development server, create a .env file in the Front-End root directory and add the following:
 
@@ -24,7 +24,7 @@ GITHUB_TOKEN=Your_Github_Access_Token
 ```
 ---
 
-##📦 Install Dependencies
+## 📦 Install Dependencies
 
 Install all required packages using:
 
@@ -33,7 +33,7 @@ npm install
 ```
 ---
 
-##🚀 Start the Development Server
+## 🚀 Start the Development Server
 
 To run the front-end locally:
 
