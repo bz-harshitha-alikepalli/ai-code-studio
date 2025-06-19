@@ -4,6 +4,18 @@ AI Code Studio is an AI-Powered Multi-Language Code Studio that provides intelli
 
 ---
 
+## ✨ Key Features
+
+- ⚙️ **AI-Powered Code Execution:** Run code in multiple programming languages effortlessly.  
+- 🔄 **Cross-Language Conversion:** Easily convert code from one language to another.  
+- 🐞 **Smart Debugging:** Automatically detect and fix errors with clear explanations.  
+- 📊 **Code Quality Analysis:** Get feedback on your code’s quality across several metrics.  
+- 🔗 **GitHub Integration:** Import and manage code from your GitHub repositories.  
+- 🎨 **Customizable Interface:** Choose themes and adjust font size to suit your preferences.  
+- 📱 **Responsive Design:** Works smoothly on desktops, tablets, and smartphones.  
+
+---
+
 ## 📁 Clone the Repository
 
 To get started, clone the repository and navigate to the Front-End directory:
